@@ -2,7 +2,7 @@
 <p align="center">Gerente de Desenvolvimento e Arquiteto de Soluções</p>
 <hr />
 
-Opa! Meu nome é Diovanni de Souza, também conheido como AntiCasper! Sou apaixonado por tecnologia e desenvolvimento desde os anos 90. Comecei a desenvolver aos 15 anos em 2004. Sou formado em Desenvolvimento de Sistemas para Internet pela Bom Jesus UniFae desde 2009 e Pós Graduado em desenvolvimento de jogos digitais pela PUC-PR em 2012. Atualmente sou Gerente de Desenvolvimento e Arquiteto de Soluções na SoftwareSul Dev.
+Opa! Meu nome é Diovanni de Souza, também conheido como AntiCasper! Sou apaixonado por tecnologia desde os anos 90. Comecei a desenvolver aos 15 anos em 2004. Sou formado em Desenvolvimento de Sistemas para Internet pela Bom Jesus UniFae desde 2009 e Pós Graduado em Desenvolvimento de Jogos Digitais pela PUC-PR em 2012. Atualmente sou Gerente de Desenvolvimento e Arquiteto de Soluções na SoftwareSul Dev.
 
 ## Linguagens e Tecnologias
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
