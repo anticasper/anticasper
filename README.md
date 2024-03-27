@@ -7,38 +7,27 @@ Opa! Meu nome é Diovanni! Sou apaixonado por tecnologia e desenvolvimento desde
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![Ruby](https://img.shields.io/badge/-ruby?style=flat-square&logo=ruby&logoColor=red)
-![C#]
-
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=red)
+![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp&logoColor=purple)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![React](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vue.js)
-![Tailwind]
+![Tailwind](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=blue)
-![Postgres]
-![MsSQL]
-![Oracle DB2]
-
-![Azure]
-![AWS]
-![Google]
-
+![Postgres](https://img.shields.io/badge/-postgresql-black?style=flat-square&logo=postgresql)
+![MsSQL](https://img.shields.io/badge/-microsoftsqlserver-black?style=flat-square&logo=microsoftsqlserver)
+![Oracle DB2](https://img.shields.io/badge/-oracle-black?style=flat-square&logo=oracle)
+![Azure](https://img.shields.io/badge/-microsoftazure-black?style=flat-square&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-amazonaws-black?style=flat-square&logo=amazonaws)
+![Google](https://img.shields.io/badge/-google-black?style=flat-square&logo=google)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![RedHat](https://img.shields.io/badge/-redhat-black?style=flat-square&logo=redhat)
+![Ubuntu](https://img.shields.io/badge/-oracle-black?style=flat-square&logo=oracle)
+![CentOS](https://img.shields.io/badge/-centos-black?style=flat-square&logo=centos)
+![Oracle Linux](https://img.shields.io/badge/-oracle-black?style=flat-square&logo=oracle)
 
-![RedHat]
-![Ubuntu]
-![CentOS]
-![Oracle Linux]
-
-![Scrum]
-![PMBok]
-![UX]
-![Design UI]
-![Unity]
-![Arduino]
