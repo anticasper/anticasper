@@ -1,4 +1,3 @@
-# Olá! 👋
 
 Opa! Meu nome é Diovanni! Sou apaixonado por tecnologia e desenvolvimento desde 2004. Desenvolvo desde então. Formato em Desenvolvimento de Sistemas para Internet pela UniFae em 2009 e Pós Graduado em desenvolvimento de jogos digitais pela PUC-PR em 2012. Atualmente sou Gerente de Desenvolvimento e Arquiteto de Sistemas na SoftwareSul Dev.
 
@@ -8,7 +7,7 @@ Opa! Meu nome é Diovanni! Sou apaixonado por tecnologia e desenvolvimento desde
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![Ruby]
+![Ruby](https://img.shields.io/badge/-ruby?style=flat-square&logo=ruby&logoColor=red)
 ![C#]
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
