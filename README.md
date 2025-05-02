@@ -23,7 +23,7 @@ Opa! Meu nome é Diovanni de Souza, também conheido como AntiCasper! Sou apaixo
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&logoColor=blue)
 ![Postgres](https://img.shields.io/badge/-PostGreSQL-black?style=flat-square&logo=postgresql)
 ![MsSQL](https://img.shields.io/badge/-MsSQL-black?style=flat-square&logo=microsoftsqlserver)
-![Oracle DB2](https://img.shields.io/badge/-Oracle_DB2-black?style=flat-square&logo=oracle)
+![IBM DB2](https://img.shields.io/badge/-Oracle_DB2-black?style=flat-square&logo=oracle)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Google](https://img.shields.io/badge/-Google-black?style=flat-square&logo=google)
